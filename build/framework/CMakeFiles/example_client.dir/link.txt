@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_client.dir/example/ClientMain.cpp.o -o ../example_client  libOOP1_framework.a -lrt external/sfml/lib/libsfml-network.a external/sfml/lib/libsfml-system.a -lpthread -lrt 

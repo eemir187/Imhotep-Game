@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOOP1_framework.a CMakeFiles/OOP1_framework.dir/src/network/TestsystemCommunicationBridge.cpp.o CMakeFiles/OOP1_framework.dir/src/network/Client.cpp.o CMakeFiles/OOP1_framework.dir/src/network/RetrieveMessage.cpp.o CMakeFiles/OOP1_framework.dir/src/network/Server.cpp.o CMakeFiles/OOP1_framework.dir/src/random/Random.cpp.o
+/usr/bin/ranlib libOOP1_framework.a
