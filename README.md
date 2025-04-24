@@ -45,6 +45,13 @@ The project follows a modular object-oriented C++ design with the following comp
 
 ---
 
+## 🖼 Download the GUI
+- **[Imhotep GUI for Windows](https://tc.tugraz.at/main/pluginfile.php/1616430/mod_folder/content/0/Imhotep_Windows.zip?forcedownload=1)**
+- **[Imhotep GUI for Linux](https://tc.tugraz.at/main/pluginfile.php/1616430/mod_folder/content/0/Imhotep_Linux.zip?forcedownload=1)**
+
+
+---
+
 ## ⚙️ How to Build and Run
 
 Follow these steps to compile and run the client manually:
