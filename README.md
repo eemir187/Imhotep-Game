@@ -22,7 +22,7 @@ This ensures a consistent and robust multiplayer experience, tightly synchronize
 ## 🎮 Game Summary
 
 - The game revolves around loading cards onto ships and sending them to various building sites:  
-  Temple, Pyramid, Obelisk, ⚰Burial Chamber.
+  Temple, Pyramid, Obelisk, Burial Chamber.
 - Each site has unique placement rules and scoring mechanics.
 - Players alternate turns, selecting cards and placing them strategically across the board.
 - The GUI handles player interaction and rendering, while this backend enforces all game rules.
