@@ -43,6 +43,11 @@ The project follows a modular object-oriented C++ design with the following comp
 - `checkValid.cpp/hpp` – Validates actions against game rules.
 - `framework/` – Contains the provided `net::Client` networking module.
 
+## 🗂️ Code Structure
+
+<img src="screenshots/uml_final.png" width="800"/>
+
+
 ---
 
 ## 🖼 Download the GUI
