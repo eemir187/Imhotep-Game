@@ -45,7 +45,7 @@ The project follows a modular object-oriented C++ design with the following comp
 
 ## 🗂️ Code Structure
 
-<img src="screenshots/uml_final.png" width="800"/>
+<img src="screenshots/imhotepUML.png"/>
 
 
 ---
